@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tp3-Interfaces</string>
+    <string name="item1">To-do list</string>
+    <string name="item2">-Estudar Android</string>
+    <string name="item3">-Levar o cachorro para passear</string>
+    <string name="item4">-Arrumar a casa</string>
+    <string name="item5">-Buscar as crianças na escola</string>
+    <string name="item6">-Reunião com o Chefe</string>
+    <string name="item7">-Fazer o almoço</string>
+    <string name="item8">-Ir no banco</string>
+    <string name="item9">-Pagar contas</string>
+    <string name="rotuloNome">Nome</string>
+    <string name="hintNome">Digite seu nome</string>
+    <string name="fotoPerfil">Foto perfil</string>
+    <string name="activity">Mudar activity</string>
+    <string name="nameUser">User Name</string>
+    <string name="post">Lorem Ipsum has been the industry\'s standard</string>
+
+</resources>
